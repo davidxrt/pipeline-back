@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "JONATAN",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus14.actions.githubusercontent.com/LNzJx1ECFrBMZchYh1wIX18rwmp4HcM1d8lt30kicdSyXatXxr/",
+  "gitHubUrl": "https://github.com/davidxrt/pipeline-back",
+  "workFolder": "_work"
+}
